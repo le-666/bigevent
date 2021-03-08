@@ -30,3 +30,11 @@ $.ajaxPrefilter(function (options) {
 
     }
 })
+
+// // 屏蔽enter事件
+
+// document.function(e) {
+//     if (e.keyCode == 13) {
+//         return
+//     }
+// }
